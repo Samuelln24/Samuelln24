@@ -1,6 +1,6 @@
 # 💫 A propos:
 Hello 👋<br>
-Je suis Samuel, étudiant à l’école O’clock, passionné par le développement web, l’entrepreneuriat et l’apprentissage continu. J’adore explorer de nouvelles technologies et relever des défis techniques !<br>Actuellement en recherche d’un stage de 2 mois, je souhaite mettre en pratique mes compétences, apprendre auprès d’une équipe dynamique et contribuer activement à de nouveaux projets.<br><br>🚀 En ce moment, je développe un projet personnel ainsi qu'un projet d'école.
+Je suis Samuel, étudiant à l’école O’clock, passionné par le développement web, l’entrepreneuriat et l’apprentissage continu. J’adore explorer de nouvelles technologies et relever des défis techniques !<br><br>Actuellement en recherche d’un stage de 2 mois, je souhaite mettre en pratique mes compétences, apprendre auprès d’une équipe dynamique et contribuer activement à de nouveaux projets.<br><br>🚀 En ce moment, je développe un projet personnel ainsi qu'un projet d'école.
 <br><br>😊 N’hésite pas à me contacter pour échanger ou collaborer ! <br>📩 Email : [samuel.leny2406@gmail.com]<br>
 
 
